@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace HttpUtility
+namespace Http_Utility
 {
     public static class HttpUtility
     {
