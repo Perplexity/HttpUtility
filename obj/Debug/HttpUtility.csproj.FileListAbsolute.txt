@@ -1,0 +1,5 @@
+C:\Users\Ryan\source\repos\HttpUtility\HttpUtility\bin\Debug\HttpUtility.dll
+C:\Users\Ryan\source\repos\HttpUtility\HttpUtility\bin\Debug\HttpUtility.pdb
+C:\Users\Ryan\source\repos\HttpUtility\HttpUtility\obj\Debug\HttpUtility.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\HttpUtility\HttpUtility\obj\Debug\HttpUtility.dll
+C:\Users\Ryan\source\repos\HttpUtility\HttpUtility\obj\Debug\HttpUtility.pdb
